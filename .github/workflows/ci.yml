@@ -18,8 +18,7 @@ jobs:
       - uses: actions/cache@v2
         with:
           key: ${{ github.ref }}
-          path: .cache
-      - run: apt-get install pngquant 
+          path: .cache      
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force
 env:
