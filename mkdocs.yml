@@ -17,6 +17,7 @@ markdown_extensions:
 
 theme:
   name: material
+  custom_dir: docs/custom_theme
 
   features:
     - navigation.expand
