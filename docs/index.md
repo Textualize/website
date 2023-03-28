@@ -59,7 +59,7 @@ This is what we are building. All Free and Open Source software.
         Run Textual apps in the browser as easily as the terminal. Build web apps with just your Python skills.
 
 
-    [:material-github: Textual](https://github.com/textualize/textual){ .md-button .md-button--primary }
+    [:material-github: Textual](https://github.com/textualize/textual){ .md-button .md-button--primary } [:fontawesome-brands-discord: Textual Discord](https://discord.gg/Enf6Z3qhVr){ .md-button .md-button--primary }
 
 </div>
 
