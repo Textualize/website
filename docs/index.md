@@ -24,6 +24,11 @@ We have a solution for that.
 
 [:material-download: :material-file-pdf-box: Textualize Cloud Service](./files/Textual%20Cloud%20Service%20-%20Google%20Docs.pdf)
 
+## What to know more?
+
+Follow our progress on the [Textual Blog](https://textual.textualize.io/blog/) or visit the [Textual Website](https://textual.textualize.io/) for more information.
+
+
 ## Projects
 
 This is what we are building. All Free and Open Source software.
