@@ -1,28 +1,48 @@
 site_name: Textualize
 
 nav:
-  - index.md  
+
+  - projects.md
+  - about-us.md
+  - why-i-founded-textualize.md
   
 
 markdown_extensions:
   - pymdownx.snippets
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  # - pymdownx.superfences
   - attr_list
   - md_in_html
+  - meta
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      baselevel: 1
 
 theme:
   name: material
   custom_dir: docs/custom_theme
 
+  # features:
+  #   - navigation.tabs
+  #   - navigation.indexes
+  #   - navigation.tabs.sticky
+  #   - navigation.footer
+  #   - content.code.annotate
+  #   - content.code.copy
+
   features:
     - navigation.expand
     - navigation.path
     - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+
 
   palette:
 
