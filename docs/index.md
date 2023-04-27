@@ -14,11 +14,15 @@ hide:
 
 We are building [Textual](projects.md#textual) &mdash; a Rapid Application Development framework for Python.
 
-As the world's [most popular programming language](https://www.tiobe.com/tiobe-index/), Python has made a huge impact in a broad range of fields from data science to biology. At the same time, web development has become more and more specialized, putting it out of reach for the majority of developers. We have a solution for that.
+As the world's [most popular programming language](https://www.tiobe.com/tiobe-index/), Python has made a huge impact in a broad range of fields from data science to biology.
+At the same time, web development has become more and more specialized, putting it out of reach for the majority of developers. **We have a solution for that**.
 
-Textual leverages developers existing Python skills and the tools they already know, to build highly functional User Interfaces. Making it possible for the majority of Python developers to build UIs for their company or organisation. No more slow, expensive out-sourcing. Apps can be built in-house by a single developer that would previously have taken a team of specialists to build &mdash; and in a fraction of the time.
+Textual leverages developers existing Python skills and the tools they already know, to build highly functional User Interfaces.
+Making it possible for developers of all skill levels to build applications for their company or organisation.
+**No more slow, expensive out-sourcing**.
+Apps can be built in-house by a single developer that would previously have taken a team of specialists to build &mdash; and in a fraction of the time.
 
-Textual apps run on MacOS, Linux, and Windows. In the terminal, on the web, and in Jupyter notebooks. 
+Textual apps run on MacOS, Linux, and Windows. In the terminal, the web, and Jupyter notebooks. 
 
 ## Want to know more?
 
