@@ -45,7 +45,7 @@ Expect a lot more from your terminal with this modern API to build interactive a
             --8<-- "docs/images/textual-screenshots/datadog.svg"
             </a>
             <p>
-                <a href="https://github.com/DataDog/ddqa">DDQA</a> (by DataDog) is a tool for users of Jira to perform QA of anticipated releases of code on GitHub.
+                <a href="https://github.com/DataDog/ddqa">DDQA</a> (by Datadog) is a tool for users of Jira to perform QA of anticipated releases of code on GitHub.
             </p>
         </li>
         <li>
